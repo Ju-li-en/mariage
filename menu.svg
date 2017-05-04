@@ -337,11 +337,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="157.11603"
-     inkscape:cy="574.90764"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-25.151342"
+     inkscape:cy="645.29479"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -384,7 +384,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="carte">
+     inkscape:label="carte"
+     sodipodi:insensitive="true">
     <g
        id="g5594"
        transform="matrix(0.07191903,0,0,0.08281499,3.3177729,78.992411)"
@@ -12491,11 +12492,11 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="mariane"
-     style="display:inline;opacity:0.38100011"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.72">
     <g
        id="g12491"
-       transform="translate(-6.879167,0.52916663)">
+       transform="translate(-6.879167,0.52916663)"
+       style="">
       <image
          style="stroke-width:0.31531319"
          width="20.742868"
@@ -12520,7 +12521,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="avion"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
     <g
        id="g4523"
        transform="matrix(0.81353877,0.51647043,-0.51647043,0.81353877,75.668237,-31.711936)"
