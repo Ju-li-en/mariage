@@ -337,11 +337,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-25.151342"
-     inkscape:cy="645.29479"
+     inkscape:zoom="0.5"
+     inkscape:cx="98.495648"
+     inkscape:cy="881.67884"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -12492,11 +12492,11 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="mariane"
-     style="display:inline;opacity:0.72">
+     style="display:inline;opacity:0.72000002"
+     sodipodi:insensitive="true">
     <g
        id="g12491"
-       transform="translate(-6.879167,0.52916663)"
-       style="">
+       transform="translate(6.8791671,0.52916663)">
       <image
          style="stroke-width:0.31531319"
          width="20.742868"
@@ -12545,8 +12545,7 @@
      inkscape:label="menu"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot11612"
@@ -12563,7 +12562,7 @@
          id="flowPara11618"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:BlackJack;-inkscape-font-specification:BlackJack;fill:#ffffff;stroke-width:0.74657315">Menu</flowPara></flowRoot>    <g
        id="g11764"
-       transform="matrix(0.89637964,0,0,0.89637964,29.643377,0.20190372)"
+       transform="matrix(0.89637964,0,0,0.89637964,31.230878,-0.85642953)"
        style="stroke-width:1.11559868">
       <g
          id="text11676"
@@ -12707,9 +12706,9 @@
     <path
        id="path12484"
        style="fill:none;stroke:#ffffff;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 218.35139,26.024861 c -14.71527,-11.895877 -19.42309,-12.397807 -30.6053,-6.434716 -11.18222,5.963091 -15.24988,-0.502615 -20.98575,0.35993 m 52.21335,9.349876 C 204.16904,17.457215 199.44572,16.972298 188.2551,22.975826 c -11.19063,6.003527 -15.2956,-0.447502 -21.04449,0.435777 m 52.38528,9.163369 c -14.89381,-11.789426 -19.63261,-12.257326 -30.83178,-6.213466 -11.19918,6.043861 -15.34133,-0.392394 -21.10328,0.5116 m 52.55717,8.976818 c -14.98274,-11.735948 -19.73702,-12.186829 -30.94488,-6.102737 -11.20787,6.084092 -15.38707,-0.337294 -21.16209,0.587396 m 52.72898,8.790226 c -15.07143,-11.682306 -19.84119,-12.116165 -31.05788,-5.991941 -11.21669,6.124224 -15.43282,-0.282201 -21.22095,0.663167"
+       d="m 216.56057,26.024216 c -14.16194,-11.894302 -18.70724,-12.396203 -29.53488,-6.43407 -10.82763,5.962134 -14.72838,-0.502682 -20.27272,0.359688 m 50.40971,9.349547 c -14.25112,-11.841344 -18.81145,-12.326235 -29.64546,-6.323554 -10.834,6.00268 -14.77241,-0.44756 -20.32901,0.435563 m 50.57648,9.163082 c -14.34007,-11.788205 -18.9154,-12.256082 -29.75593,-6.212965 -10.84053,6.043118 -14.81645,-0.392445 -20.38534,0.511412 m 50.74319,8.97657 c -14.4288,-11.734886 -19.01913,-12.185747 -29.86632,-6.102301 -10.84718,6.083446 -14.8605,-0.337339 -20.44169,0.587232 m 50.90983,8.790014 c -14.51728,-11.68139 -19.12261,-12.115232 -29.9766,-5.991565 -10.85399,6.123666 -14.90457,-0.28224 -20.4981,0.663025"
        inkscape:path-effect="#path-effect12487"
-       inkscape:original-d="m 218.63428,21.551931 2.42145,13.096206 M 166.8661,18.277879 168.64183,32.12244"
+       inkscape:original-d="m 216.85347,21.551931 2.33833,13.096206 m -52.32933,-16.370258 1.71477,13.844561"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <flowRoot

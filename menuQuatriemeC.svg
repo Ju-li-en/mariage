@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="580.13489"
-     inkscape:cy="893.12594"
+     inkscape:cx="376.08408"
+     inkscape:cy="889.08533"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -145,7 +145,7 @@
            y="796.80542"
            style="" /></flowRegion><flowPara
          id="flowPara5689" /></flowRoot>    <path
-       style="display:inline;opacity:0.71100003;fill:none;stroke:#55ddff;stroke-width:0.54299998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.629, 0.543;stroke-dashoffset:4.61550045;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;stroke:#5dc6d1;stroke-width:0.54299998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.629, 0.54300000000000004;stroke-dashoffset:4.61550045;stroke-opacity:1;fill-opacity:1"
        d="m 0.49949715,53.521188 c 0,0 37.87741985,38.044892 49.62592485,30.870976 12.240503,-7.474343 -10.790281,-25.179142 6.974372,-28.87656 17.764654,-3.697418 6.021987,37.892025 30.023061,29.926847 24.001075,-7.965178 -5.691476,-21.590883 -3.580205,-25.862422 2.111272,-4.271539 31.56003,-42.282361 29.3642,-16.270257 -2.19583,26.012103 -41.144008,-6.553675 -26.529325,-14.516276 14.614685,-7.962601 24.166755,50.801467 38.052665,39.22061 3.89839,-3.868851 -13.01809,-32.709499 -4.93278,-35.724235 8.08531,-3.014736 19.60791,6.767715 24.51175,3.422856 4.90385,-3.344859 -1.31679,-18.759428 2.10641,-21.094556 3.42319,-2.335127 19.97552,1.69292 17.34865,6.003401 -2.62686,4.310481 -5.7642,25.336919 3.56717,22.245513 9.33136,-3.091407 0.13814,-15.437284 7.48238,-15.437284 5.2328,0 3.98873,5.00025 7.06267,4.886322 3.07394,-0.113928 5.25332,-0.766728 5.25332,-0.766728"
        id="path4510"
        inkscape:connector-curvature="0"
@@ -153,9 +153,9 @@
     <g
        id="g5772"
        transform="matrix(1.0890549,0.18726947,-0.1868986,1.0868982,-17.90089,-50.815988)"
-       style="opacity:1;fill:#55ddff;fill-opacity:0.71372549;stroke-width:0.90584308">
+       style="opacity:1;fill:#5dc6d1;fill-opacity:1;stroke-width:0.90584308">
       <path
-         style="display:inline;opacity:1;fill:#55ddff;fill-opacity:0.71372549;stroke:none;stroke-width:0.04644683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#5dc6d1;fill-opacity:1;stroke:none;stroke-width:0.04644683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 197.09028,41.082187 0.48837,2.24561 0.78367,-0.359852 0.0112,-1.709041 c 0,0 1.86661,-0.557186 3.33706,-1.264472 0.34561,0.972383 0.53632,1.981706 0.71169,4.14129 1.09237,-0.50162 0.68859,-0.267688 1.13503,-0.541509 0.27005,-1.7159 0.20613,-2.42562 0.20613,-2.42562 0,0 0.2876,-0.138559 0.494,-0.26063 0.10089,-0.185363 -0.0162,-0.467286 -0.1862,-0.561565 l -0.33916,0.155748 c 0,0 0.1262,-0.955863 0.19092,-1.478106 0.31864,-0.192071 4.21946,-1.822201 4.50411,-3.135925 -4.73984,2.080074 -5.49921,2.436418 -11.33684,5.194072 z"
          id="path5766"
          inkscape:connector-curvature="0"
@@ -165,7 +165,7 @@
          inkscape:connector-curvature="0"
          id="path5768"
          d="m 197.09028,41.082187 -1.39078,-1.831234 0.78366,-0.359855 1.32623,1.165951 c 0,0 1.61975,-1.114824 3.11459,-1.769203 -0.51495,-0.894617 -1.1588,-1.695854 -2.68777,-3.233868 1.09237,-0.501617 0.65167,-0.347754 1.15047,-0.50799 1.48121,0.911719 1.9796,1.421924 1.9796,1.421924 0,0 0.29254,-0.12784 0.5197,-0.204848 0.20669,0.0441 0.34496,0.316335 0.30612,0.506491 l -0.33918,0.155744 c 0,0 0.80937,0.526253 1.24882,0.816982 0.35344,-0.116553 4.14066,-1.993163 5.32538,-1.354166"
-         style="display:inline;opacity:1;fill:#55ddff;fill-opacity:0.71372549;stroke:none;stroke-width:0.04644683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#5dc6d1;fill-opacity:1;stroke:none;stroke-width:0.04644683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>
