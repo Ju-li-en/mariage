@@ -337,11 +337,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="98.495648"
-     inkscape:cy="881.67884"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="606.48058"
+     inkscape:cy="1024.0339"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -12492,11 +12492,10 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="mariane"
-     style="display:inline;opacity:0.72000002"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.72000002">
     <g
        id="g12491"
-       transform="translate(6.8791671,0.52916663)">
+       transform="translate(8.9958336,-1.5875)">
       <image
          style="stroke-width:0.31531319"
          width="20.742868"
@@ -12545,7 +12544,8 @@
      inkscape:label="menu"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot11612"
